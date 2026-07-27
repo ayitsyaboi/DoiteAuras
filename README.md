@@ -1,3 +1,11 @@
+# DO NOT USE THIS FORK
+
+I forked this so I can experiment with adding my own features and potentially fixing (and breaking) future issues. This will not be actively maintained, is not intended to be maintained and is DoA. Do not use it. 
+
+
+
+
+
 # DoiteAuras
 Looking for WeakAuras in Vanilla WoW? DoiteAuras is a 1.12 lightweight, condition-based tracker for **abilities**, **buffs**, **debuffs**, **items** and **bars**.
 Visit the original DoiteAuras by Doite: https://github.com/Player-Doite/DoiteAuras
